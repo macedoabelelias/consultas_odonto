@@ -25,9 +25,9 @@ if ($linhas == 0) {
 	<meta charset="UTF-8">
 	<meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=0'>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="Description" content="Sistemas de Hugo Vasconcelos Portal Hugo Cursos">
-	<meta name="Author" content="Hugo Vasconcelos">
-	<meta name="Keywords" content="sistemas hugo vasconcelos, sistemas hugo, sistemas portal hugo cursos, portal hugocursos, sistema odontológico" />
+	<meta name="Description" content="AM Systems - Sistema de Gestão Empresarial">
+	<meta name="Author" content="Abel Macedo">
+	<meta name="Keywords" content="am sytems - abel elias de macedo" />
 
 	<!-- TITLE -->
 	<title><?php echo $nome_sistema ?></title>
